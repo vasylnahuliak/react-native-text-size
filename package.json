@@ -16,9 +16,9 @@
     "multiline",
     "fonts"
   ],
-  "repository": "https://github.com/aMarCruz/react-native-text-size.git",
-  "bugs": "https://github.com/aMarCruz/react-native-text-size/issues",
-  "homepage": "https://github.com/aMarCruz/react-native-text-size",
+  "repository": "https://github.com/vasylnahuliak/react-native-text-size.git",
+  "bugs": "https://github.com/vasylnahuliak/react-native-text-size/issues",
+  "homepage": "https://github.com/vasylnahuliak/react-native-text-size",
   "author": "aMarCruz <amarcruzbox_git@yahoo.com>",
   "license": "BSD-2-Clause",
   "scripts": {
