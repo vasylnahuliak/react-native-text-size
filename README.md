@@ -44,7 +44,7 @@ Mostly automatic installation from npm
 
 ```bash
 yarn add react-native-text-size
-react-native link react-native-text-size
+npx pod-install
 ```
 
 **Requirements:**
@@ -53,8 +53,6 @@ react-native link react-native-text-size
 - Android API 16 or iOS 9.0 and above.
 
 For versions prior to 0.56 of React Native, please use [react-native-text-size v2.1.1](https://www.npmjs.com/package/react-native-text-size/v/2.1.1)
-
-See [Manual Installation][2] on the Wiki as an alternative if you have problems with automatic installation.
 
 ## API
 
