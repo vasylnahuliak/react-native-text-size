@@ -47,8 +47,6 @@ yarn add react-native-text-size
 react-native link react-native-text-size
 ```
 
-Change the `compile` directive to `implementation` in the dependencies block of the android/app/build.gradle file.
-
 **Requirements:**
 
 - React Native v0.57 or later.
